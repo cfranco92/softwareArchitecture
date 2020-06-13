@@ -37,3 +37,21 @@ It's important that we differentiate the ROL of the job, there are roles that ca
 * **Development team:** QA / Testing are in charge of evaluating our software, checking that what is being done is what is expected to be done. Developers involved in building the software. Architect, designs the solution and analyzes the requirements, is a more strategic role. The architecture emerges from the work of a well-managed team.
 
 * **Project manager / facilitator:** They lead the team through the iterative and incremental process, understand what is happening with the team and motivate progress in product development.
+
+# What is software architecture?
+
+It is the structure of the system, composed by software elements, their visible properties and their relationships.
+
+It is the main set of design decisions made for the system.
+
+Architecture comes down to the important things, whatever they are.
+
+Example:
+Twitter architecture component diagram
+![](./readmeAssets/twitterModulesComponentsArchitecture.png)
+
+AWS deployment diagram
+![](./readmeAssets/deploymentDiagramAWS.png)
+
+Flux data flow diagram
+![](./readmeAssets/fluxDateFlowDiagram.png)
