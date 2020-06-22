@@ -46,7 +46,8 @@ It is the main set of design decisions made for the system.
 
 Architecture comes down to the important things, whatever they are.
 
-Example:
+Examples:
+
 Twitter architecture component diagram
 ![](./readmeAssets/twitterModulesComponentsArchitecture.png)
 
@@ -55,3 +56,9 @@ AWS deployment diagram
 
 Flux data flow diagram
 ![](./readmeAssets/fluxDateFlowDiagram.png)
+
+# Conway's Law
+A company or organization will be able to generate structures that mimic the communication path of their organization.
+
+It can be a monolithic system where all the equipment is together.
+It can also be divided by teams artificially or organizationally, achieving a distributed application where each team owns their application and then communicate more clearly.
