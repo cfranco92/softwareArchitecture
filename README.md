@@ -62,3 +62,9 @@ A company or organization will be able to generate structures that mimic the com
 
 It can be a monolithic system where all the equipment is together.
 It can also be divided by teams artificially or organizationally, achieving a distributed application where each team owns their application and then communicate more clearly.
+
+# Architect's Goals
+The architect connects the stakeholders with the system to be built. Each one of the roles that the SH have affect in a different way the system.
+
+Stakeholders - Functional and non-functional requirements
+![](./readmeAssets/stakeHolders.png)
