@@ -68,3 +68,11 @@ The architect connects the stakeholders with the system to be built. Each one of
 
 Stakeholders - Functional and non-functional requirements
 ![](./readmeAssets/stakeHolders.png)
+
+# Architecture and methodologies
+
+Traditional methodologies
+![](./readmeAssets/traditionalMethodologies.png)
+
+Agile methodologies
+![](./readmeAssets/agileMethodologies.png)
