@@ -82,3 +82,23 @@ The problem space details what I am going to solve.
 
 The space of the solution goes into the detail of how I am going to solve the problem.
 ![](./readmeAssets/understandTheProblem.png)
+
+# Requirements
+Once we understand the problem space and the solution space, we will enter to analyze the requirements of our system.
+
+## Product requirements
+![](./readmeAssets/productRequirements.png)
+We can divide them into 3.
+* **Business requirements layer**, are business rules that feed the business requirements.
+* **User layer**, have to do with how the user operates using the system, what attributes of the system should be placed above others.
+* **Functional Layer**, are fed by system requirements, what things have to happen operationally?
+This layer is affected by restrictions that may affect the functional operationally.
+
+## Project requirements
+![](./readmeAssets/projectRequirements.png)
+They have more to do with the role of project manager, they are used to prioritize product requirements.
+These two worlds of requirements speak to the priorities of the project team.
+
+## Product requirements
+* **Functional requirements:** They have to do with user stories, which talk about specifically what the system does, for example which user enters the system.
+* **Non-functional requirements:** are those that add qualities to the system, for example, that the entry of that user is secure.
