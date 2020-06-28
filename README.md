@@ -76,3 +76,9 @@ Traditional methodologies
 
 Agile methodologies
 ![](./readmeAssets/agileMethodologies.png)
+
+# Understand the problem
+The problem space details what I am going to solve.
+
+The space of the solution goes into the detail of how I am going to solve the problem.
+![](./readmeAssets/understandTheProblem.png)
