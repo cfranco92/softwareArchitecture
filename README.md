@@ -119,3 +119,15 @@ Let's see how to identify the risks:
 ## Prioritizy risk
 ![](./readmeAssets/prioritizyRisk.png)
 Once we have the identified risks, we must prioritize them, remember that it is not necessary to mitigate all of them, we must always take into account and give priority to those risks that jeopardize the solution that is being built.
+
+# Constraints
+![](./readmeAssets/constraints.png)
+Constraints in the context of a software development process refers to constraints that limit the design options or implementations available when developing.
+
+The stakeholder can put limitations on us related to their business context, legal limitations.
+
+There are also technical limitations related to integrations with other systems.
+
+The product life cycle will add limitations to the product, for example, as the implementation process progresses, the data model will be more difficult to modify.
+
+The architect must balance between requirements and constraints.
