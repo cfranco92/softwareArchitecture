@@ -102,3 +102,20 @@ These two worlds of requirements speak to the priorities of the project team.
 ## Product requirements
 * **Functional requirements:** They have to do with user stories, which talk about specifically what the system does, for example which user enters the system.
 * **Non-functional requirements:** are those that add qualities to the system, for example, that the entry of that user is secure.
+
+# Risks
+![](./readmeAssets/risk.png)
+Risks are important to prioritize and attack in order to ensure that the architectural solutions we propose solve the most important problems.
+
+Try to treat risks with possible failure scenarios and what would happen if that risk becomes real.
+
+## Identify risk
+Let's see how to identify the risks:
+![](./readmeAssets/identifyRisk.png)
+* **In taking requirements ->** difficulty / complexity
+* **In quality attributes ->** uncertainty, the more uncertainty there is, the higher the risk.
+* **Knowledge of the domain ->** Prototypical risk, are those that we can attack in a standard way.
+
+## Prioritizy risk
+![](./readmeAssets/prioritizyRisk.png)
+Once we have the identified risks, we must prioritize them, remember that it is not necessary to mitigate all of them, we must always take into account and give priority to those risks that jeopardize the solution that is being built.
